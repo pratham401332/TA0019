@@ -33,3 +33,4 @@ CREATE TABLE companies (
     job_role VARCHAR(255) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+THis website is currently running on local host and we will connect it to cloud services
